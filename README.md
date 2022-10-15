@@ -7,3 +7,7 @@
 * Balanceamento de carga
 * Service discovery
 * Self-healing
+
+![](1662206790251.jpeg)
+
+![](1662206790167.jpeg)
